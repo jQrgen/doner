@@ -1,9 +1,11 @@
 <template>
   <div class="home">
-    <HelloWorld msg="Døner Tallrik & DJ Bord"/>
+    <HelloWorld msg="Døner Tallrik"/>
     <br>
     <br>
     <hr>
+
+    <iframe src="https://discord.com/widget?id=957770119336034315&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
     <a target="_blank" href="https://soundcloud.com/user-688920568-653173414">
       <button class="button_lol"><span>SOUNDCLOUD</span></button>
@@ -19,7 +21,7 @@
     <hr>
 
     <h1 class="blink_1">NEWS (NYHETER)</h1>
-    <b>Breaking: Døner Tallrik & Dj Bord har fått penger fra NAV.</b>
+    <b>Breaking: Døner Tallrik har fått penger fra NAV.</b>
 
     <p style="font-style: italic">"Dette er stor sak i Trøgstad og mange er glade. Bedre med penger fra staten en brødskive uten servelaten" - Trøgstadværing</p>
     <img style="height: 15em" alt="Vue logo" src="../assets/nyhet1.png">
